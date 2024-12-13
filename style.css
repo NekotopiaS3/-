@@ -13,7 +13,7 @@
   --white-color: #fff;
   --dark-color: #252525;
   --primary-color: #441c71;
-  --secondary-color: #ffa003;
+  --secondary-color: #ff7003;
   --light-pink-color: #ffffff;
   --medium-gray-color: #ccc;
 
@@ -325,7 +325,7 @@ header .navbar {
   border-radius: var(--border-radius-circle);
 }
 
-.testimonials-section .testimonial .name {
+.testimonials-section .testimonial .name1 {
   margin-bottom: 16px;
   font-size: var(--font-size-m);
 }
@@ -482,6 +482,20 @@ header .navbar {
 
             margin-left: 5px;
         }
+        .text51 .blue-tick {
+
+
+
+
+
+
+
+
+
+            color: #ff1212;
+
+            margin-left: 5px;
+        }
 
 .text .blue-tick {
 
@@ -522,8 +536,17 @@ header .navbar {
             margin-left: 5px;
         }
         
-        .name .blue-tick {
+                .name1 .blue-tick {
+
+
+
             color: #1DA1F2;
+            top: -1px;
+            margin-left: 5px;
+        }
+        
+        .name .blue-tick {
+            color: #f21d1d;
             margin-left: 5px;
             font-size: 15px;
         }
